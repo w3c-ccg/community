@@ -22,6 +22,16 @@ The following work items are managed by this group:
 - [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/)
 - Document W3C-CCG Process
 - [Registries Process](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) - Need spectext version
+
 ## Potential Work Items -- Not Accepted
 - [Joram 1.0.0](http://bit.ly/joram100)
 - [WoT Scenario](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/RWOT-User-Story.md)
+- [Verifiable Credentials Examples](https://github.com/w3c-ccg/vc-examples)
+
+## Specifications
+
+The following specifications were incubated in this group and are now undergoing international standardization:
+
+- [Verifiable Claims Use Cases 1.0](https://w3c.github.io/vc-use-cases/) - Use Cases for claims that are cryptographically secure, privacy respecting, and automatically verifiable
+- [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) - A standard mechanism for expressing items such as driver's licenses, employee ID cards, proofs of age, and other sorts of claims in a way that is cryptographically secure, privacy respecting, and automatically verifiable.
+

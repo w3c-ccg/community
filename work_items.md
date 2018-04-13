@@ -19,7 +19,7 @@ The following work items are managed by this group:
 - [Educational and Occupational Verifiable Credentials](https://github.com/w3c-ccg/edu_occ_verifiable_credentials)
 - [Digital Verification Specifications](https://w3c-dvcg.github.io/) - Digital Verification is a task force within the Credentials Community Group.
 - [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/)
-
+- Document W3C-CCG Process
 ## Potential Work Items -- Not Accepted
 - [Joram 1.0.0](http://bit.ly/joram100)
 - [WoT Scenario](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/RWOT-User-Story.md)

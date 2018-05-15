@@ -12,7 +12,7 @@ The following work items are managed by this group:
 ## Work Items
 
 - [Decentralized Identifiers (DID) 1.0](https://w3c-ccg.github.io/did-spec/) - A decentralized, self-sovereign mechanism for creating and proving ownership over identifiers
-- [DID Use Cases] (https://github.com/w3c-ccg/did-use-cases) - Coordinate input and create a first draft use case document for input from the community.
+- [DID Use Cases](https://github.com/w3c-ccg/did-use-cases) - Coordinate input and create a first draft use case document for input from the community.
 - [Credential Handler API and Polyfill](https://github.com/digitalbazaar/credential-handler-polyfill) - Web browser extensions for verifiable credentials exchange.
 - [Privacy & Security Requirements for Credentials Ecosystem](https://goo.gl/ZeyJUS)
 - [Lifecycle Model](https://w3c-ccg.github.io/vc-lifecycle/)

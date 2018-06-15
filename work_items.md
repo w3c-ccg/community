@@ -22,6 +22,7 @@ The following work items are managed by this group:
 - [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/)
 - Document W3C-CCG Process
 - [Registries Process](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) - Need spectext version
+- [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) Lionel Wolberger and Adrian Gropper - DONE
 
 ## Potential Work Items -- Not Accepted
 - [Joram 1.0.0](http://bit.ly/joram100)

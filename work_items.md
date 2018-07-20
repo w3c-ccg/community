@@ -15,7 +15,7 @@ The following work items are managed by this group:
 - [DID Use Cases](https://github.com/w3c-ccg/did-use-cases) - Coordinate input and create a first draft use case document for input from the community.
 - [Credential Handler API and Polyfill](https://github.com/digitalbazaar/credential-handler-polyfill) - Web browser extensions for verifiable credentials exchange.
 - [Privacy & Security Requirements for Credentials Ecosystem](https://goo.gl/ZeyJUS) - DONE
-- [Engagement Model](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/Amira-SSWOT-Engagement-Model.md) - DONE
+- [Engagement Model](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/Amira-SSWOT-Engagement-Model.md)
 - [Data Minimization & Selective Disclosure](https://github.com/w3c-ccg/data-minimization)
 - [Educational and Occupational Verifiable Credentials](https://github.com/w3c-ccg/edu_occ_verifiable_credentials)
 - [Digital Verification Specifications](https://w3c-dvcg.github.io/) - Digital Verification is a task force within the Credentials Community Group.

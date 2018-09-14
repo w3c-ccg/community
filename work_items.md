@@ -20,7 +20,7 @@ The following work items are managed by this group:
 - [Educational and Occupational Verifiable Credentials](https://github.com/w3c-ccg/edu_occ_verifiable_credentials)
 - [Digital Verification Specifications](https://w3c-dvcg.github.io/) - Digital Verification is a task force within the Credentials Community Group.
 - [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/)
-- Document W3C-CCG Process
+- Document W3C-CCG Process: we have a draft; figure out next steps
 - [Registries Process](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) - Need spectext version
 - [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) Lionel Wolberger and Adrian Gropper - DONE
 

@@ -20,9 +20,14 @@ The following work items are managed by this group:
 - [Educational and Occupational Verifiable Credentials](https://github.com/w3c-ccg/edu_occ_verifiable_credentials)
 - [Digital Verification Specifications](https://w3c-dvcg.github.io/) - Digital Verification is a task force within the Credentials Community Group.
 - [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/)
-- Document W3C-CCG Process: we have a draft; figure out next steps
+- Document W3C-CCG Process
+    - Draft: https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#
+    - Needs:
+        - Close of work item process
+        - Community Report Process
+    - Note: lack of "Close of work item process" is blocking closing of other work items
 - [Registries Process](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) - Need spectext version
-- [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) Lionel Wolberger and Adrian Gropper - DONE
+- [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) Lionel Wolberger and Adrian Gropper
 
 ## Potential Work Items -- Not Accepted
 - [Joram 1.0.0](http://bit.ly/joram100)

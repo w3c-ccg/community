@@ -28,6 +28,8 @@ The following work items are managed by this group:
     - Note: lack of "Close of work item process" is blocking closing of other work items
 - [Registries Process](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) - Need spectext version
 - [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) Lionel Wolberger and Adrian Gropper
+- DID Primer
+- DID Explainer
 
 ## Potential Work Items -- Not Accepted
 - [Joram 1.0.0](http://bit.ly/joram100)

@@ -30,14 +30,13 @@ The following work items are managed by this group:
         - Close of work item process
         - Community Report Process
     - Note: lack of "Close of work item process" is blocking closing of other work items 
-- [Engagement Model (Amira)](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md)
-    - need repo + spec (*) 
-    - session in weekly call to present; announce going out for review: speak now AND mailing list (1)
-	    - 1 week after: reminder (2) 
-        - 2 weeks after: proposed final report (3)
-            - announce: 1 week to provide subst contributions 
-	- goal: publish on W3C site as official CG item
-
+- [Engagement Model (Amira)]
+    - [Current draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md)
+    - [Github repo](https://github.com/w3c-ccg/amira)
+    - Needs:
+    	- Conversion to spectext
+        - Review
+	
 ### Work Items iterating in google docs (or external)
 - [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) Lionel Wolberger and Adrian Gropper
 - [Digital Verification Specifications](https://w3c-dvcg.github.io/) - Digital Verification is a task force within the Credentials Community Group.

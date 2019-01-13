@@ -16,58 +16,16 @@ The following work items are managed by this group:
 | Work Item | Current Draft | Github Repo | Status | 
 | --------- |:-------------:|:-----:|-----:|
 | Decentralized Identifiers (DID) 1.0 | https://w3c-ccg.github.io/did-spec/ | https://github.com/w3c-ccg/did-spec | Iterating | 
-
-
-- - A decentralized, self-sovereign mechanism for creating and proving ownership over identifiers
-    - [Current draft]()
-    - [Github repo]()
-    - Status: iterating
-- Object Capabilities for Linked Data
-    - [Current draft](https://w3c-ccg.github.io/ocap-ld/)
-    - [Github repo](https://github.com/w3c-ccg/ocap-ld)
-    - Status: iterating
-- Data Minimization & Selective Disclosure
-    - [Current draft](https://github.com/w3c-ccg/data-minimization)
-    - [Github repo](https://github.com/w3c-ccg/data-minimization)
-    - Needs:
-        - Convert to spectext
-        - Close of work item process 
-- DID Primer
-    - [Current draft](https://w3c-ccg.github.io/did-primer/)
-    - [Github repo](https://github.com/w3c-ccg/did-primer)
-    - Needs:
-    	- Convert to spectext
-        - Close of work item process 
-- Registries Process
-    - [Current draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html)
-    - [Github repo](https://github.com/w3c-ccg/registries-process)
-    - Needs:
-    	- Convert to spectext
-        - Close of work item process 
-- DID Explainer
-    - [Current draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit)
-    - [Github repo](https://github.com/w3c-ccg/did-explainer)
-    - Needs:
-    	- Convert to spectext
-        - Close of work item process 
-- W3C CCG Process - Needs completion and spectext version
-    - [Current draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#)
-    - [Github repo](https://github.com/w3c-ccg/w3c-ccg-process)
-    - Needs:
-        - Document "Close of Work Item Process"
-        - Document "Community Report Process"
-        - Convert to spectext
-        - Close of work item process 
+| Object Capabilities for Linked Data | https://w3c-ccg.github.io/ocap-ld/ | https://github.com/w3c-ccg/ocap-ld | Iterating |
+| Data Minimization & Selective Disclosure | https://github.com/w3c-ccg/data-minimization | https://github.com/w3c-ccg/data-minimization | Needs spectext, close process |
+| DID Primer | https://w3c-ccg.github.io/did-primer/ | https://github.com/w3c-ccg/did-primer | Needs spectext, close process |
+| Registries Process | https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html | https://github.com/w3c-ccg/registries-process | Needs spectext, close process |
+| DID Explainer | https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit | https://github.com/w3c-ccg/did-explainer | Needs spectext, close process |
+| Engagement Model (Amira) | https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md | https://github.com/w3c-ccg/amira | Needs spectext, close process |
+| W3C CCG Process | https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit# | https://github.com/w3c-ccg/w3c-ccg-process | BLOCKING OTHERS: Needs "Close of Work Item" & "Community Report" documentation, spectext, close process |
+| DID Use Cases | ?? | https://github.com/w3c-ccg/did-use-cases) | UNKNOWN |
     - Note: lack of "Close of work item process" is blocking closing of other work items 
-- [Engagement Model (Amira)]
-    - [Current draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md)
-    - [Github repo](https://github.com/w3c-ccg/amira)
-    - Needs:
-    	- Convert to spectext
-        - Close of work item process 
 
-### Work Items with Repos and CODEOWNERS but unknown state
-- [DID Use Cases](https://github.com/w3c-ccg/did-use-cases) - Coordinate input and create a first draft use case document for input from the community.
 
 ### Work Items iterating in google docs (or external)
 - [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) Lionel Wolberger and Adrian Gropper

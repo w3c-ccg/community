@@ -25,7 +25,7 @@ The following work items are managed by this group:
 | W3C CCG Process | [Google Docs draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | BLOCKING OTHERS(1) |
 | DID Use Cases | ?? | https://github.com/w3c-ccg/did-use-cases | UNKNOWN; owner Joe Andrieu? |
 | DID Engagement spreadsheet | [Google Docs draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | UNKNOWN; owners Lionel Wolberger and Adrian Gropper |
-| Credential Handler API and Polyfill] | ?? | https://github.com/digitalbazaar/credential-handler-polyfill | UNKNOWN |
+| Credential Handler API and Polyfill | ?? | https://github.com/digitalbazaar/credential-handler-polyfill | UNKNOWN |
 | Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | UNKNOWN | 
 - [Digital Verification Specifications](https://w3c-dvcg.github.io/) - Digital Verification is a task force within the Credentials Community Group.
 

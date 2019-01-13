@@ -1,6 +1,34 @@
 # W3C Credentials Community Group Work Items
 
-The following work items are managed by this group:
+The following work items are managed by this group.
+
+## Table of Contents
+
+- [W3C Credentials Community Group Work Items](#w3c-credentials-community-group-work-items)
+  * [Potential Work Items](#potential-work-items)
+    + [Proposed](#proposed)
+    + [On hold](#on-hold)
+  * [Current Work Items](#current-work-items)
+    + [Registries](#registries)
+    + [Draft Specifications and Reports](#draft-specifications-and-reports)
+  * [Completed Work Items](#completed-work-items)
+    + [Specifications](#specifications)
+    + [Reports](#reports)
+
+## Potential Work Items
+
+### Proposed
+- [DID Resolver](https://github.com/w3c-ccg/community/issues/20)
+- [Multihash](https://github.com/w3c-ccg/community/issues/46)
+- [Multibase](https://github.com/w3c-ccg/community/issues/47)
+- [Hashlink](https://github.com/w3c-ccg/community/issues/48)
+- CCG Survey (external) (Heather Vescent)
+- Functional Identity (Joe Andrieu and ?)
+
+### On hold
+- [Joram 1.0.0](http://bit.ly/joram100)
+- [WoT Scenario](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/RWOT-User-Story.md)
+- [Verifiable Credentials Examples](https://github.com/w3c-ccg/vc-examples)
 
 ## Current Work Items 
 
@@ -22,20 +50,28 @@ The following work items are managed by this group:
 | Engagement Model (Amira) | [Markdown Draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) | https://github.com/w3c-ccg/amira | Needs spectext, close process |
 | Registries Process | [Mailing list Draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | Needs spectext, close process |
 | DID Explainer | [Google Docs draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) | https://github.com/w3c-ccg/did-explainer | Needs spectext, close process |
-| W3C CCG Process | [Google Docs draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | BLOCKING OTHERS(1) |
+| W3C CCG Process | [Google Docs draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | BLOCKING OTHERS(2) |
 | DID Use Cases | ?? | https://github.com/w3c-ccg/did-use-cases | UNKNOWN |
 | DID Engagement spreadsheet | [Google Docs draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | UNKNOWN |
 | Credential Handler API and Polyfill | ?? | https://github.com/digitalbazaar/credential-handler-polyfill | UNKNOWN |
 | Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | UNKNOWN | 
 - [Digital Verification Specifications](https://w3c-dvcg.github.io/) - Digital Verification is a task force within the Credentials Community Group.
 
-(1) W3C CCG Process is blocking closing process of other work items:
+1. TODO: Needs discussion (notes from Christopher):
+    - Needs cryptographer review
+    - More of a Data Verification item
+    - Perhaps needs to be split into 2 work items
+    - Should this be moved to another standards body or group?
+    - Can W3C TAG contribute?
+2. TODO: W3C CCG Process is blocking closing process of other work items:
    - Needs documentation for "Close of Work Item" & "Community Report" processes
    - Needs spectext, close process
 
 ## Completed Work Items 
 
-### Specifications (TODO: do these count as "completed" CCG items? Where can I find the others?)
+TODO: Where can we find the others?
+
+### Specifications
 
 The following specifications were incubated in this group and are now undergoing international standardization:
 
@@ -46,16 +82,3 @@ The following specifications were incubated in this group and are now undergoing
 
 - [Verifiable Credentials Lifecycle](https://goo.gl/pBKL08) - This report was incubated in this group and has been integrated into the [W3C Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/). Closed 2018-01-16
 
-
-
-## Potential Work Items
-
-### Proposed
-
-TODO: link to github issues
-
-### On hold
-- [Joram 1.0.0](http://bit.ly/joram100)
-- [WoT Scenario](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/RWOT-User-Story.md)
-- [Verifiable Credentials Examples](https://github.com/w3c-ccg/vc-examples)
-- [Educational and Occupational Verifiable Credentials](https://github.com/w3c-ccg/edu_occ_verifiable_credentials)

@@ -15,14 +15,14 @@ The following work items are managed by this group:
 
 | Work Item | Current Draft | Github Repo | Status | 
 | --------- |:-------------:|:-----:|-----:|
-| Decentralized Identifiers (DID) 1.0 | https://w3c-ccg.github.io/did-spec/ | https://github.com/w3c-ccg/did-spec | Iterating | 
-| Object Capabilities for Linked Data | https://w3c-ccg.github.io/ocap-ld/ | https://github.com/w3c-ccg/ocap-ld | Iterating |
-| Data Minimization & Selective Disclosure | https://github.com/w3c-ccg/data-minimization | https://github.com/w3c-ccg/data-minimization | Needs spectext, close process |
-| DID Primer | https://w3c-ccg.github.io/did-primer/ | https://github.com/w3c-ccg/did-primer | Needs spectext, close process |
-| Registries Process | https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html | https://github.com/w3c-ccg/registries-process | Needs spectext, close process |
-| DID Explainer | https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit | https://github.com/w3c-ccg/did-explainer | Needs spectext, close process |
-| Engagement Model (Amira) | https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md | https://github.com/w3c-ccg/amira | Needs spectext, close process |
-| W3C CCG Process | https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit# | https://github.com/w3c-ccg/w3c-ccg-process | BLOCKING OTHERS: Needs "Close of Work Item" & "Community Report" documentation, spectext, close process |
+| Decentralized Identifiers (DID) 1.0 | [Spectext Draft](https://w3c-ccg.github.io/did-spec/) | https://github.com/w3c-ccg/did-spec | Iterating | 
+| Object Capabilities for Linked Data | [Spectext Draft](https://w3c-ccg.github.io/ocap-ld/) | https://github.com/w3c-ccg/ocap-ld | Iterating |
+| DID Primer | [Markdown Draft](https://w3c-ccg.github.io/did-primer/) | https://github.com/w3c-ccg/did-primer | Needs spectext, close process |
+| Data Minimization & Selective Disclosure | [Markdown Draft](https://github.com/w3c-ccg/data-minimization) | https://github.com/w3c-ccg/data-minimization | Needs spectext, close process |
+| Engagement Model (Amira) | [Markdown Draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) | https://github.com/w3c-ccg/amira | Needs spectext, close process |
+| Registries Process | [Mailing list Draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | Needs spectext, close process |
+| DID Explainer | [Docs draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) | https://github.com/w3c-ccg/did-explainer | Needs spectext, close process |
+| W3C CCG Process | [Docs draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | BLOCKING OTHERS: Needs "Close of Work Item" & "Community Report" documentation, spectext, close process |
 | DID Use Cases | ?? | https://github.com/w3c-ccg/did-use-cases) | UNKNOWN |
     - Note: lack of "Close of work item process" is blocking closing of other work items 
 

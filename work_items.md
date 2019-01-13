@@ -12,33 +12,57 @@ The following work items are managed by this group:
 ## Work Items
 
 ### Work Items with Repos and CODEOWNERS
-- [Decentralized Identifiers (DID) 1.0](https://w3c-ccg.github.io/did-spec/) - A decentralized, self-sovereign mechanism for creating and proving ownership over identifiers
-- [DID Use Cases](https://github.com/w3c-ccg/did-use-cases) - Coordinate input and create a first draft use case document for input from the community.
-- [Data Minimization & Selective Disclosure](https://github.com/w3c-ccg/data-minimization)
+
+- Decentralized Identifiers (DID) 1.0 - A decentralized, self-sovereign mechanism for creating and proving ownership over identifiers
+    - [Current draft](https://w3c-ccg.github.io/did-spec/)
+    - [Github repo](https://github.com/w3c-ccg/did-spec)
+    - Status: iterating
+- Object Capabilities for Linked Data
+    - [Current draft](https://w3c-ccg.github.io/ocap-ld/)
+    - [Github repo](https://github.com/w3c-ccg/ocap-ld)
+    - Status: iterating
+- Data Minimization & Selective Disclosure
+    - [Current draft](https://github.com/w3c-ccg/data-minimization)
+    - [Github repo](https://github.com/w3c-ccg/data-minimization)
     - Needs:
         - Convert to spectext
-        - Close of Work Item Process 
-- [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/)
-- [DID Primer](https://w3c-ccg.github.io/did-primer/)
-- Registries Process - Need spectext version
+        - Close of work item process 
+- DID Primer
+    - [Current draft](https://w3c-ccg.github.io/did-primer/)
+    - [Github repo](https://github.com/w3c-ccg/did-primer)
+    - Needs:
+    	- Convert to spectext
+        - Close of work item process 
+- Registries Process
     - [Current draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html)
     - [Github repo](https://github.com/w3c-ccg/registries-process)
-- DID Explainer - Needs completion and spectext version
+    - Needs:
+    	- Convert to spectext
+        - Close of work item process 
+- DID Explainer
     - [Current draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit)
     - [Github repo](https://github.com/w3c-ccg/did-explainer)
+    - Needs:
+    	- Convert to spectext
+        - Close of work item process 
 - W3C CCG Process - Needs completion and spectext version
     - [Current draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#)
     - [Github repo](https://github.com/w3c-ccg/w3c-ccg-process)
     - Needs:
         - Document "Close of Work Item Process"
         - Document "Community Report Process"
+        - Convert to spectext
+        - Close of work item process 
     - Note: lack of "Close of work item process" is blocking closing of other work items 
 - [Engagement Model (Amira)]
     - [Current draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md)
     - [Github repo](https://github.com/w3c-ccg/amira)
     - Needs:
     	- Convert to spectext
-        - Close of Work Item Process 
+        - Close of work item process 
+
+### Work Items with Repos and CODEOWNERS but unknown state
+- [DID Use Cases](https://github.com/w3c-ccg/did-use-cases) - Coordinate input and create a first draft use case document for input from the community.
 
 ### Work Items iterating in google docs (or external)
 - [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) Lionel Wolberger and Adrian Gropper

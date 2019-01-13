@@ -4,16 +4,16 @@ The following work items are managed by this group.
 
 ## Table of Contents
 
-- [W3C Credentials Community Group Work Items](#w3c-credentials-community-group-work-items)
-  * [Potential Work Items](#potential-work-items)
-    + [Proposed](#proposed)
-    + [On hold](#on-hold)
-  * [Current Work Items](#current-work-items)
-    + [Registries](#registries)
-    + [Draft Specifications and Reports](#draft-specifications-and-reports)
-  * [Completed Work Items](#completed-work-items)
-    + [Specifications](#specifications)
-    + [Reports](#reports)
+
+- [Potential Work Items](#potential-work-items)
+  + [Proposed](#proposed)
+  + [On hold](#on-hold)
+- [Current Work Items](#current-work-items)
+  + [Registries](#registries)
+  + [Draft Specifications and Reports](#draft-specifications-and-reports)
+- [Completed Work Items](#completed-work-items)
+  + [Specifications](#specifications)
+  + [Reports](#reports)
 
 ## Potential Work Items
 

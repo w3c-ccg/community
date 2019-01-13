@@ -15,6 +15,9 @@ The following work items are managed by this group:
 - [Decentralized Identifiers (DID) 1.0](https://w3c-ccg.github.io/did-spec/) - A decentralized, self-sovereign mechanism for creating and proving ownership over identifiers
 - [DID Use Cases](https://github.com/w3c-ccg/did-use-cases) - Coordinate input and create a first draft use case document for input from the community.
 - [Data Minimization & Selective Disclosure](https://github.com/w3c-ccg/data-minimization)
+    - Needs:
+        - Convert to spectext
+        - Close of Work Item Process 
 - [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/)
 - [DID Primer](https://w3c-ccg.github.io/did-primer/)
 - Registries Process - Need spectext version
@@ -27,16 +30,16 @@ The following work items are managed by this group:
     - [Current draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#)
     - [Github repo](https://github.com/w3c-ccg/w3c-ccg-process)
     - Needs:
-        - Close of work item process
-        - Community Report Process
+        - Document "Close of Work Item Process"
+        - Document "Community Report Process"
     - Note: lack of "Close of work item process" is blocking closing of other work items 
 - [Engagement Model (Amira)]
     - [Current draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md)
     - [Github repo](https://github.com/w3c-ccg/amira)
     - Needs:
-    	- Conversion to spectext
-        - Review
-	
+    	- Convert to spectext
+        - Close of Work Item Process 
+
 ### Work Items iterating in google docs (or external)
 - [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) Lionel Wolberger and Adrian Gropper
 - [Digital Verification Specifications](https://w3c-dvcg.github.io/) - Digital Verification is a task force within the Credentials Community Group.
@@ -49,10 +52,12 @@ The following work items are managed by this group:
 - [Verifiable Credentials Examples](https://github.com/w3c-ccg/vc-examples)
 - [Educational and Occupational Verifiable Credentials](https://github.com/w3c-ccg/edu_occ_verifiable_credentials)
 
-## Specifications
+## Specifications (TODO: do these count as "completed" CCG items? Where can I find the others?)
 
 The following specifications were incubated in this group and are now undergoing international standardization:
 
 - [Verifiable Claims Use Cases 1.0](https://w3c.github.io/vc-use-cases/) - Use Cases for claims that are cryptographically secure, privacy respecting, and automatically verifiable
 - [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) - A standard mechanism for expressing items such as driver's licenses, employee ID cards, proofs of age, and other sorts of claims in a way that is cryptographically secure, privacy respecting, and automatically verifiable.
+
+## Completed Work Items
 

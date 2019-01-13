@@ -22,9 +22,12 @@ The following work items are managed by this group:
 | Engagement Model (Amira) | [Markdown Draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) | https://github.com/w3c-ccg/amira | Needs spectext, close process |
 | Registries Process | [Mailing list Draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | Needs spectext, close process |
 | DID Explainer | [Docs draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) | https://github.com/w3c-ccg/did-explainer | Needs spectext, close process |
-| W3C CCG Process | [Docs draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | BLOCKING OTHERS: Needs "Close of Work Item" & "Community Report" documentation, spectext, close process |
+| W3C CCG Process | [Docs draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | BLOCKING OTHERS(1) |
 | DID Use Cases | ?? | https://github.com/w3c-ccg/did-use-cases) | UNKNOWN |
-    - Note: lack of "Close of work item process" is blocking closing of other work items 
+
+(1) W3C CCG Process is blocking closing process of other work items:
+   - Needs documentation for "Close of Work Item" & "Community Report" processes
+   - Needs spectext, close process
 
 
 ### Work Items iterating in google docs (or external)

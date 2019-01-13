@@ -13,9 +13,14 @@ The following work items are managed by this group:
 
 ### Work Items with Repos and CODEOWNERS
 
-- Decentralized Identifiers (DID) 1.0 - A decentralized, self-sovereign mechanism for creating and proving ownership over identifiers
-    - [Current draft](https://w3c-ccg.github.io/did-spec/)
-    - [Github repo](https://github.com/w3c-ccg/did-spec)
+| Work Item | Current Draft | Github Repo | Status | 
+| --------- |:-------------:|:-----:|-----:|
+| Decentralized Identifiers (DID) 1.0 | https://w3c-ccg.github.io/did-spec/ | https://github.com/w3c-ccg/did-spec | Iterating | 
+
+
+- - A decentralized, self-sovereign mechanism for creating and proving ownership over identifiers
+    - [Current draft]()
+    - [Github repo]()
     - Status: iterating
 - Object Capabilities for Linked Data
     - [Current draft](https://w3c-ccg.github.io/ocap-ld/)

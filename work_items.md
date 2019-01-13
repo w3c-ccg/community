@@ -55,7 +55,9 @@ The following work items are managed by this group.
 | DID Engagement spreadsheet | [Google Docs draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | UNKNOWN |
 | Credential Handler API and Polyfill | ?? | https://github.com/digitalbazaar/credential-handler-polyfill | UNKNOWN |
 | Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | UNKNOWN | 
-- [Digital Verification Specifications](https://w3c-dvcg.github.io/) - Digital Verification is a task force within the Credentials Community Group.
+| Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Iterating | 
+
+#### Footnotes:
 
 1. TODO: Needs discussion (notes from Christopher):
     - Needs cryptographer review

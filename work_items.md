@@ -53,7 +53,7 @@ The following work items are managed by this group.
 | W3C CCG Process | [Google Docs draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | BLOCKING OTHERS(2) |
 | DID Use Cases | ?? | https://github.com/w3c-ccg/did-use-cases | UNKNOWN |
 | DID Engagement spreadsheet | [Google Docs draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | UNKNOWN |
-| Credential Handler API and Polyfill | ?? | https://github.com/digitalbazaar/credential-handler-polyfill | UNKNOWN |
+| Credential Handler API and Polyfill | [Spectext Draft](https://w3c-ccg.github.io/credential-handler-api/) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | Iterating |
 | Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | UNKNOWN | 
 | Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Iterating | 
 

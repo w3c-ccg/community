@@ -17,12 +17,8 @@ The following work items are managed by this group.
 
 ## Potential Work Items
 
-### Accepted
-- [Multibase](https://github.com/w3c-ccg/community/issues/47)
-
 ### Proposed
 - [DID Resolution](https://github.com/w3c-ccg/community/issues/20)
-- CCG Survey (external) (Heather Vescent)
 - Functional Identity (Joe Andrieu and ?)
 
 ### On hold
@@ -57,7 +53,10 @@ The following work items are managed by this group.
 | Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | UNKNOWN | 
 | Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Iterating |
 | Multihash | [IETF Draft](https://w3c-dvcg.github.io/multihash/index.xml) | https://github.com/w3c-dvcg/multihash | Iterating |
-| Hashlink | [IETF Draft](https://github.com/w3c-dvcg/hashlink/) | https://github.com/w3c-dvcg/hashlink/ | Iterating |
+| Hashlink | [IETF Draft](https://w3c-dvcg.github.io/hashlink/) | https://github.com/w3c-dvcg/hashlink/ | Iterating |
+| Multibase | [IETF Draft](https://w3c-dvcg.github.io/multibase/) | https://github.com/w3c-dvcg/multibase | Iterating |
+| CCG Survey | [Proposal (Word Doc)](https://docs.google.com/document/u/1/d/1wVkLrS2TPHccN2AS8l9c5MgDYrMi_LT36ked8LvwCu0/edit?usp=drive_web&ouid=108422758870788690052) | [Survey](https://www.surveymonkey.com/r/Preview/?sm=SEwqEo2bx_2Ba534ZpEfYqE9GXlpRXB0nl_2FvrBz3ls5FZFqs25nqzQJ3KFJY1BOejN) | Iterating |
+
 
 
 #### Footnotes:

@@ -18,9 +18,7 @@ The following work items are managed by this group.
 ## Potential Work Items
 
 ### Accepted
-- [Multihash](https://github.com/w3c-ccg/community/issues/46) [DONE]
 - [Multibase](https://github.com/w3c-ccg/community/issues/47)
-- [Hashlink](https://github.com/w3c-ccg/community/issues/48)
 
 ### Proposed
 - [DID Resolution](https://github.com/w3c-ccg/community/issues/20)

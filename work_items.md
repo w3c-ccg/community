@@ -59,6 +59,7 @@ The following work items are managed by this group.
 | Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | UNKNOWN | 
 | Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Iterating |
 | Multihash | [IETF Draft](https://w3c-dvcg.github.io/multihash/index.xml) | https://github.com/w3c-dvcg/multihash | Iterating |
+| Hashlink | [IETF Draft](https://github.com/w3c-dvcg/hashlink/) | https://github.com/w3c-dvcg/hashlink/ | Iterating |
 
 
 #### Footnotes:

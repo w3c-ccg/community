@@ -17,11 +17,13 @@ The following work items are managed by this group.
 
 ## Potential Work Items
 
-### Proposed
-- [DID Resolution](https://github.com/w3c-ccg/community/issues/20)
-- [Multihash](https://github.com/w3c-ccg/community/issues/46)
+### Accepted
+- [Multihash](https://github.com/w3c-ccg/community/issues/46) [DONE]
 - [Multibase](https://github.com/w3c-ccg/community/issues/47)
 - [Hashlink](https://github.com/w3c-ccg/community/issues/48)
+
+### Proposed
+- [DID Resolution](https://github.com/w3c-ccg/community/issues/20)
 - CCG Survey (external) (Heather Vescent)
 - Functional Identity (Joe Andrieu and ?)
 
@@ -55,7 +57,9 @@ The following work items are managed by this group.
 | DID Engagement spreadsheet | [Google Docs draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | UNKNOWN |
 | Credential Handler API and Polyfill | [Spectext Draft](https://w3c-ccg.github.io/credential-handler-api/) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | Iterating |
 | Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | UNKNOWN | 
-| Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Iterating | 
+| Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Iterating |
+| Multihash | [IETF Draft](https://w3c-dvcg.github.io/multihash/index.xml) | https://github.com/w3c-dvcg/multihash | Iterating |
+
 
 #### Footnotes:
 

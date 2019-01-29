@@ -19,7 +19,7 @@ The following work items are managed by this group.
 
 ### Proposed
 - [DID Resolution](https://github.com/w3c-ccg/community/issues/20)
-- Functional Identity (Joe Andrieu and ?)
+- [Functional Identity](https://github.com/w3c-ccg/community/issues/53)
 
 ### On hold
 - [Joram 1.0.0](http://bit.ly/joram100)

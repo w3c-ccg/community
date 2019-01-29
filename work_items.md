@@ -18,8 +18,8 @@ The following work items are managed by this group.
 ## Potential Work Items
 
 ### Proposed
-- [DID Resolution](https://github.com/w3c-ccg/community/issues/20)
-- [Functional Identity](https://github.com/w3c-ccg/community/issues/53)
+- [DID Resolution](https://github.com/w3c-ccg/community/issues/20) [ACCEPTED]
+- [Functional Identity](https://github.com/w3c-ccg/community/issues/53)  [ACCEPTED]
 
 ### On hold
 - [Joram 1.0.0](http://bit.ly/joram100)

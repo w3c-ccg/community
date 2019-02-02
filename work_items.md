@@ -4,7 +4,6 @@ The following work items are managed by this group.
 
 ## Table of Contents
 
-
 - [Potential Work Items](#potential-work-items)
   + [Proposed](#proposed)
   + [On hold](#on-hold)
@@ -16,9 +15,6 @@ The following work items are managed by this group.
   + [Reports](#reports)
 
 ## Potential Work Items
-
-### Proposed
-- [DID Resolution](https://github.com/w3c-ccg/community/issues/20) [ACCEPTED]
 
 ### On hold
 - [Joram 1.0.0](http://bit.ly/joram100)
@@ -56,6 +52,7 @@ The following work items are managed by this group.
 | Multibase | [IETF Draft](https://w3c-dvcg.github.io/multibase/) | https://github.com/w3c-dvcg/multibase | Iterating |
 | CCG Survey | [Proposal (Word Doc)](https://docs.google.com/document/u/1/d/1wVkLrS2TPHccN2AS8l9c5MgDYrMi_LT36ked8LvwCu0/edit?usp=drive_web&ouid=108422758870788690052) | [Survey](https://www.surveymonkey.com/r/Preview/?sm=SEwqEo2bx_2Ba534ZpEfYqE9GXlpRXB0nl_2FvrBz3ls5FZFqs25nqzQJ3KFJY1BOejN) | Iterating |
 | Functional Identity | [Current Draft](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/functional-identity-primer.md) | https://github.com/w3c-ccg/functional-identity | Iterating |
+| DID Resolution | [Spectext Draft](https://w3c-ccg.github.io/did-resolution/) | https://github.com/w3c-ccg/did-resolution | Iterating |
 
 
 #### Footnotes:

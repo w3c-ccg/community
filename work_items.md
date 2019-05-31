@@ -30,29 +30,41 @@ The following work items are managed by this group.
 - [Linked Data Cryptographic Suite Registry](https://w3c-ccg.github.io/ld-cryptosuite-registry/) - A list of all known Linked Data Cryptographic Suites.
 - [Linked Data Key Format Registry](https://htmlpreview.github.io/?https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) - A list of known Linked Data Key Formats.
 
-### Draft Specifications and Reports
+### Community Reports
 
-| Work Item | Status/Current Version | Type | Github Repo |
-| --------- |:-------------:|:-----:|-----:|
-| Decentralized Identifiers (DID) 1.0 | [Published Draft](https://w3c-ccg.github.io/did-spec/) | Community Specification | https://github.com/w3c-ccg/did-spec |
-| Data Minimization & Selective Disclosure | [Unreleased Draft](https://w3c-ccg.github.io/data-minimization/) | Community Note | https://github.com/w3c-ccg/data-minimization  |
-| DID Explainer | [Unreleased Draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) | Community Note |  https://github.com/w3c-ccg/did-explainer | 
-| DID Use Cases | [Unreleased Draft](https://w3c-ccg.github.io/did-use-cases/) |  Community Note | https://github.com/w3c-ccg/did-use-cases |
-| DID Primer | [Unreleased Draft](https://w3c-ccg.github.io/did-primer/) |  Community Note |  https://github.com/w3c-ccg/did-primer |
-| Object Capabilities for Linked Data | [Unreleased Draft](https://w3c-ccg.github.io/ocap-ld/) | Community Specification | https://github.com/w3c-ccg/ocap-ld |
-| Credential Handler API and Polyfill | [Unreleased Draft](https://w3c-ccg.github.io/credential-handler-api/) | Community Specification | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | 
-| DID Resolution | [Unreleased Draft](https://w3c-ccg.github.io/did-resolution/) | Community Specification |  https://github.com/w3c-ccg/did-resolution | 
-| Multihash | [Unreleased Draft?](https://w3c-dvcg.github.io/multihash/index.xml) | Community Specification? |  https://github.com/w3c-dvcg/multihash | 
-| Hashlink | [Unreleased Draft?](https://w3c-dvcg.github.io/hashlink/) | Community Specification? | https://github.com/w3c-dvcg/hashlink/ |
-| Multibase | [Unreleased Draft?](https://w3c-dvcg.github.io/multibase/) |  Community Specification? |  https://github.com/w3c-dvcg/multibase | 
-| Engagement Model (Amira) | [Rough Draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) | Community Note | https://github.com/w3c-ccg/amira | 
-| DID Engagement spreadsheet | [Rough Draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | Community Note  | None |
-| Privacy & Security Requirements for Credentials Ecosystem | [Rough Draft](https://goo.gl/ZeyJUS) |  Community Note | None | 
-| CCG Survey | [Rough Draft](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) |  Community Note |  None |
-| Functional Identity | [Rough Draft](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/functional-identity-primer.md) |  Community Note |  https://github.com/w3c-ccg/functional-identity |
-| W3C CCG Process | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | Community Specification | https://github.com/w3c-ccg/w3c-ccg-process | 
-| Registries Process | [Rough Draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | Community Specification | https://github.com/w3c-ccg/registries-process | 
+#### Community Specifications
 
+| Work Item | Status/Current Version | Github Repo |
+| --------- |:-------------:|:-----:|
+| Decentralized Identifiers (DID) 1.0 | [Published Draft](https://w3c-ccg.github.io/did-spec/) | https://github.com/w3c-ccg/did-spec |
+| Object Capabilities for Linked Data | [Unreleased Draft](https://w3c-ccg.github.io/ocap-ld/) | https://github.com/w3c-ccg/ocap-ld |
+| Credential Handler API and Polyfill | [Unreleased Draft](https://w3c-ccg.github.io/credential-handler-api/) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | 
+| DID Resolution | [Unreleased Draft](https://w3c-ccg.github.io/did-resolution/) |  https://github.com/w3c-ccg/did-resolution | 
+| W3C CCG Process | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | 
+| Registries Process | [Rough Draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | 
+
+#### (External?) Community Specifications
+
+| Work Item | Status/Current Version | Github Repo |
+| --------- |:-------------:|:-----:|
+| Multihash | [Unreleased Draft?](https://w3c-dvcg.github.io/multihash/index.xml) |  https://github.com/w3c-dvcg/multihash | 
+| Hashlink | [Unreleased Draft?](https://w3c-dvcg.github.io/hashlink/) | https://github.com/w3c-dvcg/hashlink/ |
+| Multibase | [Unreleased Draft?](https://w3c-dvcg.github.io/multibase/) |  https://github.com/w3c-dvcg/multibase | 
+
+#### Community Notes
+
+
+| Work Item | Status/Current Version | Github Repo |
+| --------- |:-------------:|:-----:|
+| Data Minimization & Selective Disclosure | [Unreleased Draft](https://w3c-ccg.github.io/data-minimization/) | https://github.com/w3c-ccg/data-minimization  |
+| DID Explainer | [Unreleased Draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) |  https://github.com/w3c-ccg/did-explainer | 
+| DID Use Cases | [Unreleased Draft](https://w3c-ccg.github.io/did-use-cases/) | https://github.com/w3c-ccg/did-use-cases |
+| DID Primer | [Unreleased Draft](https://w3c-ccg.github.io/did-primer/) |  https://github.com/w3c-ccg/did-primer |
+| Engagement Model (Amira) | [Rough Draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) | https://github.com/w3c-ccg/amira | 
+| DID Engagement spreadsheet | [Rough Draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None |
+| Privacy & Security Requirements for Credentials Ecosystem | [Rough Draft](https://goo.gl/ZeyJUS) | None | 
+| CCG Survey | [Rough Draft](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) |  None |
+| Functional Identity | [Rough Draft](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/functional-identity-primer.md) |  https://github.com/w3c-ccg/functional-identity |
 
 <!-- | Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Community Specification | TODO | -->
 

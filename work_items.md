@@ -35,8 +35,8 @@ The following work items are managed by this group.
 | Work Item | Current Draft | Github Repo  | Type | Status |  
 | --------- |:-------------:|:-----:|-----:|-----:|
 | Decentralized Identifiers (DID) 1.0 | [Spectext Draft](https://w3c-ccg.github.io/did-spec/) | https://github.com/w3c-ccg/did-spec | Community Specification | Published Draft | 
-| DID Primer | [Spectext Draft](https://w3c-ccg.github.io/did-primer/) | https://github.com/w3c-ccg/did-primer | Community Note | Unreleased Draft
-| Object Capabilities for Linked Data | [Spectext Draft](https://w3c-ccg.github.io/ocap-ld/) | https://github.com/w3c-ccg/ocap-ld | Community Specification |
+| DID Primer | [Spectext Draft](https://w3c-ccg.github.io/did-primer/) | https://github.com/w3c-ccg/did-primer | Community Note | Unreleased Draft |
+| Object Capabilities for Linked Data | [Spectext Draft](https://w3c-ccg.github.io/ocap-ld/) | https://github.com/w3c-ccg/ocap-ld | Community Specification | Unreleased Draft |
 | Data Minimization & Selective Disclosure | [Markdown Draft](https://github.com/w3c-ccg/data-minimization) | https://github.com/w3c-ccg/data-minimization | Community Note |
 | Engagement Model (Amira) | [Markdown Draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) | https://github.com/w3c-ccg/amira | Community Note |
 | Registries Process | [Mailing list Draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | Community Specification |
@@ -47,12 +47,12 @@ The following work items are managed by this group.
 | Credential Handler API and Polyfill | [Spectext Draft](https://w3c-ccg.github.io/credential-handler-api/) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | Community Specification |
 | Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | Community Note | 
 | Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Community Specification |
-| Multihash | [IETF Draft](https://w3c-dvcg.github.io/multihash/index.xml) | https://github.com/w3c-dvcg/multihash | Community Specification |
-| Hashlink | [IETF Draft](https://w3c-dvcg.github.io/hashlink/) | https://github.com/w3c-dvcg/hashlink/ | Community Specification |
-| Multibase | [IETF Draft](https://w3c-dvcg.github.io/multibase/) | https://github.com/w3c-dvcg/multibase | Community Specification |
+| Multihash | [IETF Draft](https://w3c-dvcg.github.io/multihash/index.xml) | https://github.com/w3c-dvcg/multihash | Community Specification | Unreleased Draft |
+| Hashlink | [IETF Draft](https://w3c-dvcg.github.io/hashlink/) | https://github.com/w3c-dvcg/hashlink/ | Community Specification | Unreleased Draft |
+| Multibase | [IETF Draft](https://w3c-dvcg.github.io/multibase/) | https://github.com/w3c-dvcg/multibase | Community Specification | Unreleased Draft |
 | CCG Survey | [Proposal (Word Doc)](https://docs.google.com/document/u/1/d/1wVkLrS2TPHccN2AS8l9c5MgDYrMi_LT36ked8LvwCu0/edit?usp=drive_web&ouid=108422758870788690052) | [Survey](https://www.surveymonkey.com/r/Preview/?sm=SEwqEo2bx_2Ba534ZpEfYqE9GXlpRXB0nl_2FvrBz3ls5FZFqs25nqzQJ3KFJY1BOejN) | Community Note |
 | Functional Identity | [Current Draft](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/functional-identity-primer.md) | https://github.com/w3c-ccg/functional-identity | Community Note |
-| DID Resolution | [Spectext Draft](https://w3c-ccg.github.io/did-resolution/) | https://github.com/w3c-ccg/did-resolution | Community Specification |
+| DID Resolution | [Spectext Draft](https://w3c-ccg.github.io/did-resolution/) | https://github.com/w3c-ccg/did-resolution | Community Specification | Unreleased Draft |
 
 
 #### Footnotes:

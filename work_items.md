@@ -37,16 +37,16 @@ The following work items are managed by this group.
 | Decentralized Identifiers (DID) 1.0 | [Spectext Draft](https://w3c-ccg.github.io/did-spec/) | https://github.com/w3c-ccg/did-spec | Community Specification | Published Draft | 
 | DID Primer | [Spectext Draft](https://w3c-ccg.github.io/did-primer/) | https://github.com/w3c-ccg/did-primer | Community Note | Unreleased Draft |
 | Object Capabilities for Linked Data | [Spectext Draft](https://w3c-ccg.github.io/ocap-ld/) | https://github.com/w3c-ccg/ocap-ld | Community Specification | Unreleased Draft |
-| Data Minimization & Selective Disclosure | [Markdown Draft](https://github.com/w3c-ccg/data-minimization) | https://github.com/w3c-ccg/data-minimization | Community Note |
-| Engagement Model (Amira) | [Markdown Draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) | https://github.com/w3c-ccg/amira | Community Note |
-| Registries Process | [Mailing list Draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | Community Specification |
-| DID Explainer | [Google Docs draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) | https://github.com/w3c-ccg/did-explainer | Community Note |
-| W3C CCG Process | [Google Docs draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | Community Specification |
-| DID Use Cases | ?? | https://github.com/w3c-ccg/did-use-cases | Community Note |
-| DID Engagement spreadsheet | [Google Docs draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | Community Note |
-| Credential Handler API and Polyfill | [Spectext Draft](https://w3c-ccg.github.io/credential-handler-api/) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | Community Specification |
-| Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | Community Note | 
-| Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Community Specification |
+| Data Minimization & Selective Disclosure | [Spectext Draft](https://w3c-ccg.github.io/data-minimization/) | https://github.com/w3c-ccg/data-minimization | Community Note | Unreleased Draft |
+| Engagement Model (Amira) | [Markdown Draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) | https://github.com/w3c-ccg/amira | Community Note | Unreleased Draft |
+| Registries Process | [Mailing list Draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | Community Specification | Unreleased Draft |
+| DID Explainer | [Google Docs draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) | https://github.com/w3c-ccg/did-explainer | Community Note | Unreleased Draft |
+| W3C CCG Process | [Google Docs draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | Community Specification | Rough Draft |
+| DID Use Cases | ?? | https://github.com/w3c-ccg/did-use-cases | Community Note | Unreleased Draft |
+| DID Engagement spreadsheet | [Google Docs draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | Community Note | Rough Draft |
+| Credential Handler API and Polyfill | [Spectext Draft](https://w3c-ccg.github.io/credential-handler-api/) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | Community Specification | Unreleased Draft |
+| Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | Community Note | Rough Draft |
+| Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Community Specification | TODO | 
 | Multihash | [IETF Draft](https://w3c-dvcg.github.io/multihash/index.xml) | https://github.com/w3c-dvcg/multihash | Community Specification | Unreleased Draft |
 | Hashlink | [IETF Draft](https://w3c-dvcg.github.io/hashlink/) | https://github.com/w3c-dvcg/hashlink/ | Community Specification | Unreleased Draft |
 | Multibase | [IETF Draft](https://w3c-dvcg.github.io/multibase/) | https://github.com/w3c-dvcg/multibase | Community Specification | Unreleased Draft |

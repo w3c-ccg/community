@@ -34,14 +34,14 @@ The following work items are managed by this group.
 
 #### Community Specifications
 
-| Work Item | Status/Current Version | Github Repo |
-| --------- |:-------------:|:-----:|
-| Decentralized Identifiers (DID) 1.0 | [Published Draft](https://w3c-ccg.github.io/did-spec/) | https://github.com/w3c-ccg/did-spec |
-| Object Capabilities for Linked Data | [Unreleased Draft](https://w3c-ccg.github.io/ocap-ld/) | https://github.com/w3c-ccg/ocap-ld |
-| Credential Handler API and Polyfill | [Unreleased Draft](https://w3c-ccg.github.io/credential-handler-api/) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | 
-| DID Resolution | [Unreleased Draft](https://w3c-ccg.github.io/did-resolution/) |  https://github.com/w3c-ccg/did-resolution | 
-| W3C CCG Process | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | 
-| Registries Process | [Rough Draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | 
+| Work Item | Current Stage | Next Stage | Github Repo |
+| --------- |:-------------:|:-----:|:-----:|
+| [Decentralized Identifiers (DID) 1.0](https://w3c-ccg.github.io/did-spec/)| [Published Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.ieubxu1w3ksi) | [Final Report](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.xktd1c8gm9ow) | https://github.com/w3c-ccg/did-spec |
+| [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | https://github.com/w3c-ccg/ocap-ld |
+| [Credential Handler API and Polyfill](https://w3c-ccg.github.io/credential-handler-api/) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | 
+| [DID Resolution](https://w3c-ccg.github.io/did-resolution/) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) |  https://github.com/w3c-ccg/did-resolution | 
+| [W3C CCG Process](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/view#) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | https://github.com/w3c-ccg/w3c-ccg-process | 
+| [Registries Process](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | https://github.com/w3c-ccg/registries-process | 
 
 #### (External?) Community Specifications
 

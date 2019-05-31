@@ -50,7 +50,7 @@ The following work items are managed by this group.
 | Multihash | [IETF Draft](https://w3c-dvcg.github.io/multihash/index.xml) | https://github.com/w3c-dvcg/multihash | Community Specification | Unreleased Draft |
 | Hashlink | [IETF Draft](https://w3c-dvcg.github.io/hashlink/) | https://github.com/w3c-dvcg/hashlink/ | Community Specification | Unreleased Draft |
 | Multibase | [IETF Draft](https://w3c-dvcg.github.io/multibase/) | https://github.com/w3c-dvcg/multibase | Community Specification | Unreleased Draft |
-| CCG Survey | [Proposal (Word Doc)](https://docs.google.com/document/u/1/d/1wVkLrS2TPHccN2AS8l9c5MgDYrMi_LT36ked8LvwCu0/edit?usp=drive_web&ouid=108422758870788690052) | [Survey](https://www.surveymonkey.com/r/Preview/?sm=SEwqEo2bx_2Ba534ZpEfYqE9GXlpRXB0nl_2FvrBz3ls5FZFqs25nqzQJ3KFJY1BOejN) | Community Note |
+| CCG Survey | [Survey Results](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) | None | Community Note |
 | Functional Identity | [Current Draft](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/functional-identity-primer.md) | https://github.com/w3c-ccg/functional-identity | Community Note |
 | DID Resolution | [Spectext Draft](https://w3c-ccg.github.io/did-resolution/) | https://github.com/w3c-ccg/did-resolution | Community Specification | Unreleased Draft |
 

@@ -42,7 +42,7 @@ The following work items are managed by this group.
 | Registries Process | [Mailing list Draft](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | Community Specification | Unreleased Draft |
 | DID Explainer | [Google Docs draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) | https://github.com/w3c-ccg/did-explainer | Community Note | Unreleased Draft |
 | W3C CCG Process | [Google Docs draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#) | https://github.com/w3c-ccg/w3c-ccg-process | Community Specification | Rough Draft |
-| DID Use Cases | ?? | https://github.com/w3c-ccg/did-use-cases | Community Note | Unreleased Draft |
+| DID Use Cases | [Spectext Draft](https://w3c-ccg.github.io/did-use-cases/) | https://github.com/w3c-ccg/did-use-cases | Community Note | Unreleased Draft |
 | DID Engagement spreadsheet | [Google Docs draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | Community Note | Rough Draft |
 | Credential Handler API and Polyfill | [Spectext Draft](https://w3c-ccg.github.io/credential-handler-api/) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | Community Specification | Unreleased Draft |
 | Privacy & Security Requirements for Credentials Ecosystem | [Google Docs draft](https://goo.gl/ZeyJUS) | None | Community Note | Rough Draft |

@@ -34,37 +34,37 @@ The following work items are managed by this group.
 
 #### Community Specifications
 
-| Work Item | Current Stage | Next Stage | Github Repo |
+| Work Item | Github Repo | Current Stage | Next Stage | 
 | --------- |:-------------:|:-----:|:-----:|
-| [Decentralized Identifiers (DID) 1.0](https://w3c-ccg.github.io/did-spec/)| [Published Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.ieubxu1w3ksi) | [Final Report](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.xktd1c8gm9ow) | https://github.com/w3c-ccg/did-spec |
-| [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | https://github.com/w3c-ccg/ocap-ld |
-| [Credential Handler API and Polyfill](https://w3c-ccg.github.io/credential-handler-api/) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill | 
-| [DID Resolution](https://w3c-ccg.github.io/did-resolution/) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) |  https://github.com/w3c-ccg/did-resolution | 
-| [W3C CCG Process](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/view#) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | https://github.com/w3c-ccg/w3c-ccg-process | 
-| [Registries Process](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | https://github.com/w3c-ccg/registries-process | 
+| [Decentralized Identifiers (DID) 1.0](https://w3c-ccg.github.io/did-spec/) | https://github.com/w3c-ccg/did-spec | [Published Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.ieubxu1w3ksi) | [Final Report](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.xktd1c8gm9ow) | 
+| [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/) | https://github.com/w3c-ccg/ocap-ld | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
+| [Credential Handler API and Polyfill](https://w3c-ccg.github.io/credential-handler-api/) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill |  [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
+| [DID Resolution](https://w3c-ccg.github.io/did-resolution/) |  https://github.com/w3c-ccg/did-resolution |  [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
+| [W3C CCG Process](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/view#) | https://github.com/w3c-ccg/w3c-ccg-process |  [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
+| [Registries Process](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
+
+#### Community Notes
+
+| Work Item | Github Repo | Current Stage | Next Stage | 
+| --------- |:-------------:|:-----:|:-----:|
+| [Data Minimization & Selective Disclosure](https://w3c-ccg.github.io/data-minimization/) | https://github.com/w3c-ccg/data-minimization | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) |   |
+| [DID Explainer](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) |  https://github.com/w3c-ccg/did-explainer | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | |
+| [DID Use Cases](https://w3c-ccg.github.io/did-use-cases/) | https://github.com/w3c-ccg/did-use-cases | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | |
+| [DID Primer](https://w3c-ccg.github.io/did-primer/) | https://github.com/w3c-ccg/did-primer | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | |
+| [Engagement Model (Amira)](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) |  https://github.com/w3c-ccg/amira | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
+| [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | Note | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
+| [Privacy & Security Requirements for Credentials Ecosystem](https://goo.gl/ZeyJUS) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
+| [CCG Survey](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
+| [Functional Identity](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/functional-identity-primer.md) | https://github.com/w3c-ccg/functional-identity | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | |
 
 #### (External?) Community Specifications
 
-| Work Item | Status/Current Version | Github Repo |
-| --------- |:-------------:|:-----:|
+| Work Item | Current Stage | Next Stage | Github Repo |
+| --------- |:-------------:|:-----:|:-----:|
 | Multihash | [Unreleased Draft?](https://w3c-dvcg.github.io/multihash/index.xml) |  https://github.com/w3c-dvcg/multihash | 
 | Hashlink | [Unreleased Draft?](https://w3c-dvcg.github.io/hashlink/) | https://github.com/w3c-dvcg/hashlink/ |
 | Multibase | [Unreleased Draft?](https://w3c-dvcg.github.io/multibase/) |  https://github.com/w3c-dvcg/multibase | 
 
-#### Community Notes
-
-
-| Work Item | Status/Current Version | Github Repo |
-| --------- |:-------------:|:-----:|
-| Data Minimization & Selective Disclosure | [Unreleased Draft](https://w3c-ccg.github.io/data-minimization/) | https://github.com/w3c-ccg/data-minimization  |
-| DID Explainer | [Unreleased Draft](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) |  https://github.com/w3c-ccg/did-explainer | 
-| DID Use Cases | [Unreleased Draft](https://w3c-ccg.github.io/did-use-cases/) | https://github.com/w3c-ccg/did-use-cases |
-| DID Primer | [Unreleased Draft](https://w3c-ccg.github.io/did-primer/) |  https://github.com/w3c-ccg/did-primer |
-| Engagement Model (Amira) | [Rough Draft](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) | https://github.com/w3c-ccg/amira | 
-| DID Engagement spreadsheet | [Rough Draft](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None |
-| Privacy & Security Requirements for Credentials Ecosystem | [Rough Draft](https://goo.gl/ZeyJUS) | None | 
-| CCG Survey | [Rough Draft](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) |  None |
-| Functional Identity | [Rough Draft](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/functional-identity-primer.md) |  https://github.com/w3c-ccg/functional-identity |
 
 <!-- | Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Community Specification | TODO | -->
 

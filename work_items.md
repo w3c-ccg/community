@@ -4,26 +4,27 @@ The following work items are managed by this group.
 
 ## Table of Contents
 
-- [Potential Work Items](#potential-work-items)
-  + [Proposed](#proposed)
-  + [On hold](#on-hold)
 - [Current Work Items](#current-work-items)
-  + [Registries](#registries)
-  + [Draft Specifications and Reports](#draft-specifications-and-reports)
+  * [Ongoing Community Drafts](#ongoing-community-drafts)
+    + [Registries](#registries)
+  * [Community Reports](#community-reports)
+    + [Community Specifications](#community-specifications)
+    + [Community Notes](#community-notes)
+    + [(External?) Community Specifications](#-external---community-specifications)
+    + [Footnotes:](#footnotes-)
 - [Completed Work Items](#completed-work-items)
-  + [Specifications](#specifications)
-  + [Reports](#reports)
+  * [Specifications](#specifications)
+  * [Reports](#reports)
+- [On Hold Work Items](#on-hold-work-items)
 
-## Potential Work Items
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-### On hold
-- [Joram 1.0.0](http://bit.ly/joram100)
-- [WoT Scenario](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/RWOT-User-Story.md)
-- [Verifiable Credentials Examples](https://github.com/w3c-ccg/vc-examples)
 
 ## Current Work Items 
 
-### Registries
+### Ongoing Community Drafts
+
+#### Registries
 
 - [DID Methods Registry](https://w3c-ccg.github.io/did-method-registry) - A list of all known Decentralized Identifier Methods.
 - [VC Status Method Registry](https://w3c-ccg.github.io/vc-status-registry) - A list of all known Verifiable Credential Status Methods.
@@ -96,3 +97,7 @@ The following specifications were incubated in this group and are now undergoing
 
 - [Verifiable Credentials Lifecycle](https://goo.gl/pBKL08) - This report was incubated in this group and has been integrated into the [W3C Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/). Closed 2018-01-16
 
+## On Hold Work Items
+- [Joram 1.0.0](http://bit.ly/joram100)
+- [WoT Scenario](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/RWOT-User-Story.md)
+- [Verifiable Credentials Examples](https://github.com/w3c-ccg/vc-examples)

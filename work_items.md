@@ -56,7 +56,7 @@ The following work items are managed by this group.
 | [Functional Identity](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/functional-identity-primer.md) | https://github.com/w3c-ccg/functional-identity | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
 | [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
 | [Privacy & Security Requirements for Credentials Ecosystem](https://goo.gl/ZeyJUS) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
-| [CCG Survey](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
+
 
 #### (External?) Community Specifications
 
@@ -69,6 +69,12 @@ The following work items are managed by this group.
 
 <!-- | Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Community Specification | TODO | -->
 
+#### Informal Work Items
+
+
+| Work Item | Github Repo | Current Stage | Next Stage | 
+| --------- |:-------------:|:-----:|:-----:|
+| [CCG Survey](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
 
 #### Footnotes:
 

@@ -41,10 +41,14 @@ The following specifications were incubated in this group and are now undergoing
 
 #### Registries
 
-- [DID Methods Registry](https://w3c-ccg.github.io/did-method-registry) - A list of all known Decentralized Identifier Methods.
-- [VC Status Method Registry](https://w3c-ccg.github.io/vc-status-registry) - A list of all known Verifiable Credential Status Methods.
-- [Linked Data Cryptographic Suite Registry](https://w3c-ccg.github.io/ld-cryptosuite-registry/) - A list of all known Linked Data Cryptographic Suites.
-- [Linked Data Key Format Registry](https://htmlpreview.github.io/?https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) - A list of known Linked Data Key Formats.
+
+| Work Item | Github Repo  | 
+| --------- |:-------------:
+| [DID Method Registry](https://w3c-ccg.github.io/did-method-registry) | [https://github.com/w3c-ccg/did-method-registry/](https://github.com/w3c-ccg/did-method-registry/) | 
+| [VC Status Method Registry](https://w3c-ccg.github.io/vc-status-registry) | [https://github.com/w3c-ccg/vc-extension-registry](https://github.com/w3c-ccg/vc-extension-registry) |
+| [Linked Data Cryptographic Suite Registry](https://w3c-ccg.github.io/ld-cryptosuite-registry/)  | [https://github.com/w3c-ccg/ld-cryptosuite-registry](https://github.com/w3c-ccg/ld-cryptosuite-registry) | 
+| [Linked Data Key Format Registry](https://htmlpreview.github.io/?https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) | [https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html](https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) |
+
 
 ### Community Reports
 

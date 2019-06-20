@@ -41,6 +41,9 @@ The following work items are managed by this group.
 | [Object Capabilities for Linked Data](https://w3c-ccg.github.io/ocap-ld/) | https://github.com/w3c-ccg/ocap-ld | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
 | [Credential Handler API and Polyfill](https://w3c-ccg.github.io/credential-handler-api/) | https://github.com/w3c-ccg/credential-handler-api/ https://github.com/digitalbazaar/credential-handler-polyfill |  [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
 | [DID Resolution](https://w3c-ccg.github.io/did-resolution/) |  https://github.com/w3c-ccg/did-resolution |  [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
+| [Multihash](https://w3c-dvcg.github.io/multihash/index.xml) | https://github.com/w3c-dvcg/multihash | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) 0.1 | | 
+| [Hashlink](https://w3c-dvcg.github.io/hashlink/) | https://github.com/w3c-dvcg/hashlink/ | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) 0.1 | | 
+| [Multibase](https://w3c-dvcg.github.io/multibase/) | https://github.com/w3c-dvcg/multibase | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) 0.1 | | 
 
 #### Community Notes
 
@@ -56,16 +59,6 @@ The following work items are managed by this group.
 | [Functional Identity](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/functional-identity-primer.md) | https://github.com/w3c-ccg/functional-identity | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
 | [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
 | [Privacy & Security Requirements for Credentials Ecosystem](https://goo.gl/ZeyJUS) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
-
-
-#### (External?) Community Specifications
-
-| Work Item | Github Repo | Current Stage | Next Stage | 
-| --------- |:-------------:|:-----:|:-----:|
-| [Multihash](https://w3c-dvcg.github.io/multihash/index.xml) | https://github.com/w3c-dvcg/multihash | Unreleased Draft? | |    
-| [Hashlink](https://w3c-dvcg.github.io/hashlink/) | https://github.com/w3c-dvcg/hashlink/ | Unreleased Draft? | | 
-| [Multibase](https://w3c-dvcg.github.io/multibase/) | https://github.com/w3c-dvcg/multibase | Unreleased Draft? | |    
-
 
 <!-- | Digital Verification Specifications | [Index of specs](https://w3c-dvcg.github.io/) | https://github.com/w3c-dvcg | Community Specification | TODO | -->
 

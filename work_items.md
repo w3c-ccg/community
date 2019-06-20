@@ -42,12 +42,13 @@ The following specifications were incubated in this group and are now undergoing
 #### Registries
 
 
-| Work Item | Github Repo  | 
-| --------- |:-------------:
-| [DID Method Registry](https://w3c-ccg.github.io/did-method-registry) | [https://github.com/w3c-ccg/did-method-registry/](https://github.com/w3c-ccg/did-method-registry/) | 
-| [VC Status Method Registry](https://w3c-ccg.github.io/vc-status-registry) | [https://github.com/w3c-ccg/vc-extension-registry](https://github.com/w3c-ccg/vc-extension-registry) |
-| [Linked Data Cryptographic Suite Registry](https://w3c-ccg.github.io/ld-cryptosuite-registry/)  | [https://github.com/w3c-ccg/ld-cryptosuite-registry](https://github.com/w3c-ccg/ld-cryptosuite-registry) | 
-| [Linked Data Key Format Registry](https://htmlpreview.github.io/?https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) | [https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html](https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) |
+| Work Item | Github Repo  | Current Stage |
+| --------- |:-------------: | :-------------:
+| [DID Method Registry](https://w3c-ccg.github.io/did-method-registry) | [https://github.com/w3c-ccg/did-method-registry/](https://github.com/w3c-ccg/did-method-registry/) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
+| [VC Status Method Registry](https://w3c-ccg.github.io/vc-status-registry) | [https://github.com/w3c-ccg/vc-extension-registry](https://github.com/w3c-ccg/vc-extension-registry) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
+| [Linked Data Cryptographic Suite Registry](https://w3c-ccg.github.io/ld-cryptosuite-registry/)  | [https://github.com/w3c-ccg/ld-cryptosuite-registry](https://github.com/w3c-ccg/ld-cryptosuite-registry) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
+| [Linked Data Key Format Registry](https://htmlpreview.github.io/?https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) | [https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html](https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
+
 
 
 ### Community Reports

@@ -4,20 +4,35 @@ The following work items are managed by this group.
 
 ## Table of Contents
 
+- [Completed Community Reports](#completed-community-reports)
+  * [Specifications](#specifications)
+  * [Reports](#reports)
 - [Current Work Items](#current-work-items)
   * [Ongoing Community Drafts](#ongoing-community-drafts)
     + [Registries](#registries)
   * [Community Reports](#community-reports)
     + [Community Specifications](#community-specifications)
     + [Community Notes](#community-notes)
-    + [(External?) Community Specifications](#-external---community-specifications)
-    + [Footnotes:](#footnotes-)
-- [Completed Work Items](#completed-work-items)
-  * [Specifications](#specifications)
-  * [Reports](#reports)
-- [On Hold Work Items](#on-hold-work-items)
+    + [Community Commentary](#community-commentary)
+- [Informal Activities](#informal-activities)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
+## Completed Community Reports
+
+### Specifications
+
+The following specifications were incubated in this group and are now undergoing international standardization:
+
+- [Verifiable Claims Use Cases 1.0](https://w3c.github.io/vc-use-cases/) - Use Cases for claims that are cryptographically secure, privacy respecting, and automatically verifiable
+- [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) - A standard mechanism for expressing items such as driver's licenses, employee ID cards, proofs of age, and other sorts of claims in a way that is cryptographically secure, privacy respecting, and automatically verifiable.
+
+### Reports
+
+- [Verifiable Credentials Lifecycle](https://goo.gl/pBKL08) - This report was incubated in this group and has been integrated into the [W3C Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/). Closed 2018-01-16
+
 
 
 ## Current Work Items 
@@ -67,36 +82,9 @@ The following work items are managed by this group.
 | [Data Minimization & Selective Disclosure](https://w3c-ccg.github.io/data-minimization/) | https://github.com/w3c-ccg/data-minimization | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
 | [Engagement Model (Amira)](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) |  https://github.com/w3c-ccg/amira | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
 
-#### Informal Work Items
+## Informal Activities
 
-
-| Work Item | Github Repo | Current Stage | Next Stage | 
-| --------- |:-------------:|:-----:|:-----:|
-| [CCG Survey](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
-
-#### Footnotes:
-
-1. TODO: Needs discussion (notes from Christopher):
-    - Needs cryptographer review
-    - More of a Data Verification item
-    - Perhaps needs to be split into 2 work items
-    - Should this be moved to another standards body or group?
-    - Can W3C TAG contribute?
-
-## Completed Work Items 
-
-### Specifications
-
-The following specifications were incubated in this group and are now undergoing international standardization:
-
-- [Verifiable Claims Use Cases 1.0](https://w3c.github.io/vc-use-cases/) - Use Cases for claims that are cryptographically secure, privacy respecting, and automatically verifiable
-- [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) - A standard mechanism for expressing items such as driver's licenses, employee ID cards, proofs of age, and other sorts of claims in a way that is cryptographically secure, privacy respecting, and automatically verifiable.
-
-### Reports
-
-- [Verifiable Credentials Lifecycle](https://goo.gl/pBKL08) - This report was incubated in this group and has been integrated into the [W3C Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/). Closed 2018-01-16
-
-## On Hold Work Items
+- [CCG Survey](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) 
 - [Joram 1.0.0](http://bit.ly/joram100)
 - [WoT Scenario](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/RWOT-User-Story.md)
 - [Verifiable Credentials Examples](https://github.com/w3c-ccg/vc-examples)

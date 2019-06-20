@@ -82,13 +82,8 @@ The following work items are managed by this group.
     - Perhaps needs to be split into 2 work items
     - Should this be moved to another standards body or group?
     - Can W3C TAG contribute?
-2. TODO: W3C CCG Process is blocking closing process of other work items:
-   - Needs documentation for "Close of Work Item" & "Community Report" processes
-   - Needs spectext, close process
 
 ## Completed Work Items 
-
-TODO: Where can we find the others?
 
 ### Specifications
 

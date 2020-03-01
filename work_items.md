@@ -18,8 +18,6 @@ The following work items are managed by this group.
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
-
 ## Completed Community Reports
 
 ### Specifications
@@ -33,9 +31,15 @@ The following specifications were incubated in this group and are now undergoing
 
 - [Verifiable Credentials Lifecycle](https://goo.gl/pBKL08) - This report was incubated in this group and has been integrated into the [W3C Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/). Closed 2018-01-16
 
-
-
 ## Current Work Items 
+
+### Task Forces
+
+| Work Item | Github Repo | Meetings | Current Stage | Next Stage | Target | 
+| --------- |:-------------:|:-----:|:-----:|:-----:|:-----:|
+| [did-resolution](https://w3c-ccg.github.io/did-resolution/)| https://github.com/w3c-ccg/vc-ed | Thursdays 1-2pm PT [details](https://docs.google.com/document/d/1qYBaXQMUoB86Alquu7WBtWOxsS8SMhp1fioYKEGCabE/) | 
+| [vc-ed](https://w3c-ccg.github.io/vc-ed) | https://github.com/w3c-ccg/vc-ed | Mondays 8-9am PT [details](https://github.com/w3c-ccg/vc-ed/blob/gh-pages/README.md) | 
+
 
 ### Ongoing Community Drafts
 
@@ -48,8 +52,6 @@ The following specifications were incubated in this group and are now undergoing
 | [VC Status Method Registry](https://w3c-ccg.github.io/vc-status-registry) | [https://github.com/w3c-ccg/vc-extension-registry](https://github.com/w3c-ccg/vc-extension-registry) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
 | [Linked Data Cryptographic Suite Registry](https://w3c-ccg.github.io/ld-cryptosuite-registry/)  | [https://github.com/w3c-ccg/ld-cryptosuite-registry](https://github.com/w3c-ccg/ld-cryptosuite-registry) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
 | [Linked Data Key Format Registry](https://htmlpreview.github.io/?https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) | [https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html](https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
-
-
 
 ### Community Reports
 
@@ -92,12 +94,6 @@ The following specifications were incubated in this group and are now undergoing
 | [Registries Process](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
 | [Data Minimization & Selective Disclosure](https://w3c-ccg.github.io/data-minimization/) | https://github.com/w3c-ccg/data-minimization | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
 | [Engagement Model (Amira)](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) |  https://github.com/w3c-ccg/amira | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
-
-## Task Forces
-
-| Work Item | Github Repo | Current Stage | Next Stage | Target | 
-| --------- |:-------------:|:-----:|:-----:|:-----:|
-| [vc-ed](https://w3c-ccg.github.io/vc-ed) | https://github.com/w3c-ccg/vc-ed |  | 
 
 ## Informal Activities
 

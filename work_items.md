@@ -77,6 +77,7 @@ The following specifications were incubated in this group and are now undergoing
 
 | Work Item | Github Repo | Current Stage | Next Stage | Target | 
 | --------- |:-------------:|:-----:|:-----:|:-----:|
+| [VC Examples](https://w3c-ccg.github.io/vc-examples/) | https://github.com/w3c-ccg/vc-examples | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
 | [DID Use Cases](https://w3c-ccg.github.io/did-use-cases/) | https://github.com/w3c-ccg/did-use-cases | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | DID WG
 | [DID Primer](https://w3c-ccg.github.io/did-primer/) | https://github.com/w3c-ccg/did-primer | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | DID WG
 | [DID Explainer](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) |  https://github.com/w3c-ccg/did-explainer |[Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | DID WG
@@ -100,4 +101,3 @@ The following specifications were incubated in this group and are now undergoing
 - [CCG Survey](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) 
 - [Joram 1.0.0](http://bit.ly/joram100)
 - [WoT Scenario](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/RWOT-User-Story.md)
-- [Verifiable Credentials Examples](https://github.com/w3c-ccg/vc-examples)

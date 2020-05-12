@@ -59,6 +59,8 @@ The following specifications were incubated in this group and are now undergoing
 
 | Work Item | Github Repo | Current Stage | Next Stage | Target | 
 | --------- |:-------------:|:-----:|:-----:|:-----:|
+
+| [ldp-bbs2020](https://w3c-ccg.github.io/ldp-bbs2020/) | https://github.com/w3c-ccg/ldp-bbs2020 | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | ?
 | [blockchain-links](https://w3c-ccg.github.io/blockchain-links/) | https://github.com/w3c-ccg/blockchain-links | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | ?
 | [vc-verifier-http-api](https://w3c-ccg.github.io/vc-verifier-http-api/) | https://github.com/w3c-ccg/vc-verifier-http-api | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | ?
 | [vc-issuer-http-api](https://w3c-ccg.github.io/vc-issuer-http-api/) | https://github.com/w3c-ccg/vc-issuer-http-api | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | ?

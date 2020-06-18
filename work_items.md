@@ -4,7 +4,8 @@ The following work items are managed by this group.
 
 ## Table of Contents
 
-- [Completed Community Reports](#completed-community-reports)
+- [Completed Community Work Items](#completed-community-work-items)
+  * [Registries](#registries)
   * [Specifications](#specifications)
   * [Reports](#reports)
 - [Current Work Items](#current-work-items)
@@ -18,7 +19,13 @@ The following work items are managed by this group.
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-## Completed Community Reports
+## Completed Community Work Items
+
+### Registries
+
+The following registries were incubated in this group and have now been moved to other groups
+
+- [DID Method Registry](https://w3c-ccg.github.io/did-method-registry) - Registry for DID methods
 
 ### Specifications
 
@@ -26,6 +33,7 @@ The following specifications were incubated in this group and are now undergoing
 
 - [Verifiable Claims Use Cases 1.0](https://w3c.github.io/vc-use-cases/) - Use Cases for claims that are cryptographically secure, privacy respecting, and automatically verifiable
 - [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) - A standard mechanism for expressing items such as driver's licenses, employee ID cards, proofs of age, and other sorts of claims in a way that is cryptographically secure, privacy respecting, and automatically verifiable.
+- [Decentralized Identifiers (DIDs) v1.0 Working Draft](https://w3c.github.io/did-core/) - A new type of identifier that enables verifiable, decentralized digital identity. This effort is continuing at the [W3C Decentralized Identifier Working Group](https://www.w3.org/2019/did-wg/)
 
 ### Reports
 
@@ -48,7 +56,6 @@ The following specifications were incubated in this group and are now undergoing
 
 | Work Item | Github Repo  | Current Stage |
 | --------- |:-------------: | :-------------:
-| [DID Method Registry](https://w3c-ccg.github.io/did-method-registry) | [https://github.com/w3c-ccg/did-method-registry/](https://github.com/w3c-ccg/did-method-registry/) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
 | [VC Status Method Registry](https://w3c-ccg.github.io/vc-status-registry) | [https://github.com/w3c-ccg/vc-extension-registry](https://github.com/w3c-ccg/vc-extension-registry) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
 | [Linked Data Cryptographic Suite Registry](https://w3c-ccg.github.io/ld-cryptosuite-registry/)  | [https://github.com/w3c-ccg/ld-cryptosuite-registry](https://github.com/w3c-ccg/ld-cryptosuite-registry) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
 | [Linked Data Key Format Registry](https://htmlpreview.github.io/?https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) | [https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html](https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |

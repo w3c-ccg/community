@@ -7,6 +7,7 @@ The following work items are managed by this group.
 - [Completed Community Work Items](#completed-community-work-items)
   * [Registries](#registries)
   * [Specifications](#specifications)
+  * [Notes](#notes)
   * [Reports](#reports)
 - [Current Work Items](#current-work-items)
   * [Ongoing Community Drafts](#ongoing-community-drafts)
@@ -35,6 +36,10 @@ The following specifications were incubated in this group and are now undergoing
 - [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) - A standard mechanism for expressing items such as driver's licenses, employee ID cards, proofs of age, and other sorts of claims in a way that is cryptographically secure, privacy respecting, and automatically verifiable.
 - [Decentralized Identifiers (DIDs) v1.0 Working Draft](https://w3c.github.io/did-core/) - A new type of identifier that enables verifiable, decentralized digital identity. This effort is continuing at the [W3C Decentralized Identifier Working Group](https://www.w3.org/2019/did-wg/)
 
+### Notes
+
+- [DID Use Cases](https://www.w3.org/TR/did-use-cases/) - Incubated in the Credentials Community Group and now maintained by the [W3C Decentralized Identifier Working Group](https://www.w3.org/2019/did-wg/)
+
 ### Reports
 
 - [Verifiable Credentials Lifecycle](https://goo.gl/pBKL08) - This report was incubated in this group and has been integrated into the [W3C Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/). Closed 2018-01-16
@@ -43,10 +48,11 @@ The following specifications were incubated in this group and are now undergoing
 
 ### Task Forces
 
-| Work Item | Github Repo | Meetings | Current Stage | Next Stage | Target | 
-| --------- |:-------------:|:-----:|:-----:|:-----:|:-----:|
+| Work Item | Github Repo | Meetings |  
+| --------- |:-------------:|:-----:|
 | [did-resolution](https://w3c-ccg.github.io/did-resolution/)| https://github.com/w3c-ccg/vc-ed | Thursdays 1-2pm PT [details](https://docs.google.com/document/d/1qYBaXQMUoB86Alquu7WBtWOxsS8SMhp1fioYKEGCabE/) | 
 | [vc-ed](https://w3c-ccg.github.io/vc-ed) | https://github.com/w3c-ccg/vc-ed | Mondays 8-9am PT [details](https://github.com/w3c-ccg/vc-ed/blob/gh-pages/README.md) | 
+| Secure Data Storage | TBD | Thursdays 1-2pm PT / 4-5pm ET [details](https://zoom.us/j/884468271) | 
 
 
 ### Ongoing Community Drafts
@@ -90,7 +96,6 @@ The following specifications were incubated in this group and are now undergoing
 | --------- |:-------------:|:-----:|:-----:|:-----:|
 | [Linked Data Signatures for JWS](https://w3c-ccg.github.io/lds-jws2020/) | https://github.com/w3c-ccg/lds-jws2020 | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) |
 | [VC Examples](https://w3c-ccg.github.io/vc-examples/) | https://github.com/w3c-ccg/vc-examples | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
-| [DID Use Cases](https://w3c-ccg.github.io/did-use-cases/) | https://github.com/w3c-ccg/did-use-cases | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | DID WG
 | [DID Primer](https://w3c-ccg.github.io/did-primer/) | https://github.com/w3c-ccg/did-primer | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | DID WG
 | [DID Explainer](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) |  https://github.com/w3c-ccg/did-explainer |[Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | DID WG
 | [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | DID WG

@@ -5,7 +5,7 @@ The following work items are managed by this group.
 ## Table of Contents
 
 - [Completed Community Work Items](#completed-community-work-items)
-  * [Registries](#registries)
+  * [Registries](#completed-registries)
   * [Specifications](#specifications)
   * [Notes](#notes)
   * [Reports](#reports)
@@ -22,7 +22,7 @@ The following work items are managed by this group.
 
 ## Completed Community Work Items
 
-### Registries
+### Completed Registries
 
 The following registries were incubated in this group and have now been moved to other groups
 
@@ -65,7 +65,6 @@ The following specifications were incubated in this group and are now undergoing
 ### Ongoing Community Drafts
 
 #### Registries
-
 
 | Work Item | Github Repo  | Current Stage |
 | --------- |:-------------: | :-------------:

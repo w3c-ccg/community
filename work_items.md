@@ -6,10 +6,10 @@ The following work items are managed by this group.
 
 - [Completed Community Work Items](#completed-community-work-items)
   * [Registries](#completed-registries)
-  * [Specifications](#specifications)
-  * [Notes](#notes)
-  * [Reports](#reports)
-  * [Informal Activities](#informal-activities)
+  * [Specifications](#completed-specifications)
+  * [Notes](#completed-notes)
+  * [Reports](#completed-reports)
+  * [Informal Activities](#completed-informal-activities)
 - [Current Work Items](#current-work-items)
   * [Ongoing Community Drafts](#ongoing-community-drafts)
     + [Registries](#registries)
@@ -28,7 +28,7 @@ The following registries were incubated in this group and have now been moved to
 
 - [DID Method Registry](https://w3c-ccg.github.io/did-method-registry) - Registry for DID methods
 
-### Specifications
+### Completed Specifications
 
 The following specifications were incubated in this group and are now undergoing international standardization:
 
@@ -36,16 +36,16 @@ The following specifications were incubated in this group and are now undergoing
 - [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) - A standard mechanism for expressing items such as driver's licenses, employee ID cards, proofs of age, and other sorts of claims in a way that is cryptographically secure, privacy respecting, and automatically verifiable.
 - [Decentralized Identifiers (DIDs) v1.0 Working Draft](https://w3c.github.io/did-core/) - A new type of identifier that enables verifiable, decentralized digital identity. This effort is continuing at the [W3C Decentralized Identifier Working Group](https://www.w3.org/2019/did-wg/)
 
-### Notes
+### Completed Notes
 
 - [DID Use Cases](https://www.w3.org/TR/did-use-cases/) - Incubated in the Credentials Community Group and now maintained by the [W3C Decentralized Identifier Working Group](https://www.w3.org/2019/did-wg/)
 - [DID Explainer](https://docs.google.com/document/d/1JIWWs8YTWP83Hao5UXyrgpddYu9F0v8lGDUo0Usor10/edit) - Incubated in the Credentials Community Group and now maintained by the [W3C Decentralized Identifier Working Group](https://www.w3.org/2019/did-wg/)
 
-### Reports
+### Completed Reports
 
 - [Verifiable Credentials Lifecycle](https://goo.gl/pBKL08) - This report was incubated in this group and has been integrated into the [W3C Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/). Closed 2018-01-16
 
-### Informal Activities
+### Completed Informal Activities
 
 - [CCG Survey](https://docs.google.com/document/d/1s15wHQEALSAQ3JUUScGGii3re2mJxGcQgIeSk1nHh5U/edit?usp=sharing) 
 - [Joram 1.0.0](http://bit.ly/joram100)

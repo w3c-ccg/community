@@ -26,7 +26,7 @@ The following work items are managed by this group.
 
 The following registries were incubated in this group and have now been moved to other groups
 
-- [DID Method Registry](https://w3c-ccg.github.io/did-method-registry) - Registry for DID methods
+- [DID Method Registry](https://w3c.github.io/did-spec-registries/) - Registry for DID methods
 
 ### Completed Specifications
 

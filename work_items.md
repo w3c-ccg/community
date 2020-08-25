@@ -96,6 +96,8 @@ The following specifications were incubated in this group and are now undergoing
 | [Hashlink](https://w3c-ccg.github.io/hashlink/) | https://github.com/w3c-ccg/hashlink/ | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) 0.1 | [Published Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.ieubxu1w3ksi) | IETF
 | [Multibase](https://w3c-ccg.github.io/multibase/) | https://github.com/w3c-ccg/multibase | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) 0.1 | [Published Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.ieubxu1w3ksi) | IETF
 | [Verifiable Credentials JSON Schemas](https://lists.w3.org/Archives/Public/public-credentials/2019Oct/att-0033/workday-credential-schemas.md) | https://github.com/w3c-ccg/vc-json-schemas | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | ?
+| [Universal Wallet Interop Spec](https://w3c-ccg.github.io/universal-wallet-interop-spec) | https://github.com/w3c-ccg/universal-wallet-interop-spec | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | ?
+
 
 #### Community Notes
 

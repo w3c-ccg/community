@@ -17,6 +17,7 @@ The following work items are managed by this group.
     + [Community Specifications](#community-specifications)
     + [Community Notes](#community-notes)
     + [Community Commentary](#community-commentary)
+- [Archived Work Items](#archived-work-items)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 

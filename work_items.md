@@ -73,7 +73,6 @@ The following specifications were incubated in this group and are now undergoing
 | [Linked Data Cryptographic Suite Registry](https://w3c-ccg.github.io/ld-cryptosuite-registry/)  | [https://github.com/w3c-ccg/ld-cryptosuite-registry](https://github.com/w3c-ccg/ld-cryptosuite-registry) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
 | [Linked Data Key Format Registry](https://htmlpreview.github.io/?https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) | [https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html](https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
 | [Security Vocab](https://w3c-ccg.github.io/security-vocab/) | [https://github.com/w3c-ccg/security-vocab](https://github.com/w3c-ccg/security-vocab) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
-| [NIST Digital Identity Guidelines Comments](https://w3c-ccg.github.io/nist-dig-comments/) | [https://github.com/w3c-ccg/nist-dig-comments](https://github.com/w3c-ccg/nist-dig-comments) |
 
 ### Community Reports
 
@@ -98,6 +97,7 @@ The following specifications were incubated in this group and are now undergoing
 | [Multibase](https://w3c-ccg.github.io/multibase/) | https://github.com/w3c-ccg/multibase | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) 0.1 | [Published Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.ieubxu1w3ksi) | IETF
 | [Verifiable Credentials JSON Schemas](https://lists.w3.org/Archives/Public/public-credentials/2019Oct/att-0033/workday-credential-schemas.md) | https://github.com/w3c-ccg/vc-json-schemas | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | ?
 | [Universal Wallet Interop Spec](https://w3c-ccg.github.io/universal-wallet-interop-spec) | https://github.com/w3c-ccg/universal-wallet-interop-spec | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | ?
+| [Linked Data Signature ed25519 2020](https://w3c-ccg.github.io/lds-ed25519-2020/) | [https://github.com/w3c-ccg/lds-ed25519-2020](https://github.com/w3c-ccg/lds-ed25519-2020) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
 
 
 #### Community Notes
@@ -120,6 +120,7 @@ The following specifications were incubated in this group and are now undergoing
 | [Registries Process](https://lists.w3.org/Archives/Public/public-credentials/2017Dec/0020.html) | https://github.com/w3c-ccg/registries-process | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
 | [Data Minimization & Selective Disclosure](https://w3c-ccg.github.io/data-minimization/) | https://github.com/w3c-ccg/data-minimization | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | 
 | [Engagement Model (Amira)](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.md) |  https://github.com/w3c-ccg/amira | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | 
+| [NIST Digital Identity Guidelines Comments](https://w3c-ccg.github.io/nist-dig-comments/) | [https://github.com/w3c-ccg/nist-dig-comments](https://github.com/w3c-ccg/nist-dig-comments) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
 
 
 ## Archived Work Items

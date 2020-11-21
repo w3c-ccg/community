@@ -60,7 +60,7 @@ The following specifications were incubated in this group and are now undergoing
 | --------- |:-------------:|:-----:|
 | [did-resolution](https://w3c-ccg.github.io/did-resolution/)| https://github.com/w3c-ccg/did-resolution | Thursdays 1-2pm PT [details](https://docs.google.com/document/d/1qYBaXQMUoB86Alquu7WBtWOxsS8SMhp1fioYKEGCabE/) | 
 | [vc-ed](https://w3c-ccg.github.io/vc-ed) | https://github.com/w3c-ccg/vc-ed | Mondays 8-9am PT [details](https://github.com/w3c-ccg/vc-ed/blob/gh-pages/README.md) | 
-| Secure Data Storage | TBD | Thursdays 1-2pm PT / 4-5pm ET [details](https://zoom.us/j/884468271) | 
+| Confidential Storage | https://github.com/decentralized-identity/confidential-storage | Thursdays 1-2pm PT / 4-5pm ET [details](https://zoom.us/j/884468271) (pass code is 20 three times) | 
 
 
 ### Ongoing Community Drafts

@@ -112,6 +112,7 @@ The following specifications were incubated in this group and are now undergoing
 | [DID Primer](https://w3c-ccg.github.io/did-primer/) | https://github.com/w3c-ccg/did-primer | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | [Released Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.b096rinpbzxr) | DID WG
 | [DID Engagement spreadsheet](https://docs.google.com/spreadsheets/d/1ZDHH1p4EBjxVqQJyO07gWOowhrsW2hrkRH2kgNzt0y0/edit#gid=1477995692) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | DID WG
 | [Privacy & Security Requirements for Credentials Ecosystem](https://goo.gl/ZeyJUS) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | VCWG 2.0
+| [CCG 101](https://goo.gl/ZeyJUS) | https://github.com/w3c-ccg/CCG101 | Started 12/2020 |  | 
 
 <!-- | Digital Verification Specifications | [Index of specs](https://w3c-ccg.github.io/) | https://github.com/w3c-ccg | Community Specification | TODO | -->
 

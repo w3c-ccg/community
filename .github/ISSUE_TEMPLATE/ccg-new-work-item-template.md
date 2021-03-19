@@ -19,16 +19,16 @@ See [W3C-CCG New Work Item Process](https://docs.google.com/document/d/1vj811aUb
 
 > Identify 1 lead (person responsible for advancing the work item) and at least 1 other owner. Ideally, include their github usernames
 
-## Questions
+## Work Item Questions
 
-> Answer the following questions in order to document how you are meeting the requirements for a new work item at the W3C Credentials Community Group.
+> Answer the following questions in order to document how you are meeting the requirements for a new work item at the W3C Credentials Community Group. Please note if this work item supports the Silicon Valley Innovation program or another government or private sector project.
 
-### Explain what you are trying to do using no jargon or acronyms.
+1. Explain what you are trying to do using no jargon or acronyms.
 
-### How is it done today, and what are the limits of the current practice?
+2. How is it done today, and what are the limits of the current practice?
 
-### What is new in your approach and why do you think it will be successful?
+3. What is new in your approach and why do you think it will be successful?
 
-### How are you involving participants from multiple skill sets and global locations in this work item? (Skill sets: technical, design, product, marketing, anthropological, and UX. Global locations: the Americas, APAC, Europe, Middle East.)
+4. How are you involving participants from multiple skill sets and global locations in this work item? (Skill sets: technical, design, product, marketing, anthropological, and UX. Global locations: the Americas, APAC, Europe, Middle East.)
 
-### What actions are you taking to make this work item accessible to a non-technical audience?
+5. What actions are you taking to make this work item accessible to a non-technical audience?

@@ -9,7 +9,7 @@ assignees: wyc, vsnt, kimdhamilton
 
 # New Work Item Proposal
 
-See [W3C-CCG New Work Item Process](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#)
+See [W3C-CCG New Work Item Process](https://w3c-ccg.github.io/workitem-process/)
 
 ## Include Link to Abstract or Draft 
 

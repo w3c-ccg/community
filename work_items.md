@@ -102,7 +102,7 @@ The following specifications were incubated in this group and are now undergoing
 | [Universal Wallet Interop Spec](https://w3c-ccg.github.io/universal-wallet-interop-spec) | https://github.com/w3c-ccg/universal-wallet-interop-spec | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | ?
 | [Linked Data Signature ed25519 2020](https://w3c-ccg.github.io/lds-ed25519-2020/) | [https://github.com/w3c-ccg/lds-ed25519-2020](https://github.com/w3c-ccg/lds-ed25519-2020) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) |
 | [Verifiable Conditions](https://github.com/w3c-ccg/verifiable-conditions) | [https://github.com/w3c-ccg/verifiable-conditions](https://github.com/w3c-ccg/verifiable-conditions) | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | ?
-
+| [Traceability Interoperability Profile](https://github.com/w3c-ccg/traceability-interop) | [https://github.com/w3c-ccg/traceability-interop](https://github.com/w3c-ccg/traceability-interop) | [Rough Draft](https://w3c-ccg.github.io/traceability-interop/) | [Unreleased Draft](https://w3c-ccg.github.io/traceability-interop/) | ?
 
 #### Community Notes
 

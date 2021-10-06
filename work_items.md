@@ -116,8 +116,8 @@ The following specifications were incubated in this group and are now undergoing
 | [Privacy & Security Requirements for Credentials Ecosystem](https://goo.gl/ZeyJUS) | None | [Rough Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.5o3nq8ktk0e2) | [Unreleased Draft](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.i7h7vh6gfbpv) | VCWG 2.0
 | [CCG 101](https://goo.gl/ZeyJUS) | https://github.com/w3c-ccg/CCG101 | Started 12/2020 |  | 
 | [VC API Use Cases](https://github.com/w3c-ccg/vc-api-use-cases) | [https://github.com/w3c-ccg/vc-api-use-cases] |  |  | 
-| [VC ED Use Cases](https://w3c-ccg.github.io/vc-ed-use-cases/) | [https://github.com/w3c-ccg/vc-ed-use-cases] |  |  | 
-| [VC ED Models](https://w3c-ccg.github.io/vc-ed-models/) | [https://github.com/w3c-ccg/vc-ed-models] |  |  | 
+| [VC ED Use Cases](https://w3c-ccg.github.io/vc-ed-use-cases/) | [https://github.com/w3c-ccg/vc-ed-use-cases] | Started 01/2021 |  | 
+| [VC ED Models](https://w3c-ccg.github.io/vc-ed-models/) | [https://github.com/w3c-ccg/vc-ed-models] | Started 10/2020 |  | 
 
 <!-- | Digital Verification Specifications | [Index of specs](https://w3c-ccg.github.io/) | https://github.com/w3c-ccg | Community Specification | TODO | -->
 

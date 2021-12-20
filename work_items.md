@@ -123,6 +123,8 @@ The following specifications were incubated in this group and are now undergoing
 | [VC ED Use Cases](https://w3c-ccg.github.io/vc-ed-use-cases/) | [https://github.com/w3c-ccg/vc-ed-use-cases] | Started 01/2021 |  | 
 | [VC ED Models](https://w3c-ccg.github.io/vc-ed-models/) | [https://github.com/w3c-ccg/vc-ed-models] | Started 10/2020 |  | 
 | [VC API Use Cases](https://github.com/w3c-ccg/vc-api-use-cases) | [https://github.com/w3c-ccg/vc-api-use-cases](https://github.com/w3c-ccg/vc-api-use-cases) | [Rough Draft](https://w3c-ccg.github.io/vc-api-use-cases/) |   | ?
+| [Co-operative Credentials](https://github.com/w3c-ccg/Co-operative-Credentials) | [https://github.com/w3c-ccg/Co-operative-Credentials](https://github.com/w3c-ccg/Co-operative-Credentials) | [Rough Draft](https://github.com/w3c-ccg/Co-operative-Credentials) |   | 
+
 
 <!-- | Digital Verification Specifications | [Index of specs](https://w3c-ccg.github.io/) | https://github.com/w3c-ccg | Community Specification | TODO | -->
 

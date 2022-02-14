@@ -108,6 +108,8 @@ The following specifications were incubated in this group and are now undergoing
 | [did-tz](https://github.com/w3c-ccg/did-tz) | [https://github.com/w3c-ccg/did-tz](https://github.com/w3c-ccg/did-tz) | Rough Draft |   | ?
 | [BBS LDP JSON pointer normalization](https://github.com/w3c-ccg/BBS-LDP-JSON-Pointer-Normalization) | [https://github.com/w3c-ccg/BBS-LDP-JSON-Pointer-Normalization](https://github.com/w3c-ccg/BBS-LDP-JSON-Pointer-Normalization) | Rough Draft |   | ?
 | [Merkle Disclosure2021](https://github.com/w3c-ccg/Merkle-Disclosure-2021) | [https://github.com/w3c-ccg/Merkle-Disclosure-2021](https://github.com/w3c-ccg/Merkle-Disclosure-2021) | Rough Draft |   | ?
+| [Verifiable Driver's License Vocabulary](https://github.com/w3c-ccg/vdl-vocab) [& Test Suite](https://github.com/w3c-ccg/vdl-test-suite) | [https://github.com/w3c-ccg/vdl-vocab](https://github.com/w3c-ccg/vdl-vocab) [https://github.com/w3c-ccg/vdl-test-suite](https://github.com/w3c-ccg/vdl-test-suite) | Rough Draft |   | ?
+| [Verifiable Credentials Refresh 2021](https://github.com/w3c-ccg/vc-refresh-2021) | [https://github.com/w3c-ccg/vc-refresh-2021](https://github.com/w3c-ccg/vc-refresh-2021) | Rough Draft |   | ?
 
 #### Community Notes
 

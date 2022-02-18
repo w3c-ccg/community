@@ -110,6 +110,7 @@ The following specifications were incubated in this group and are now undergoing
 | [Merkle Disclosure2021](https://github.com/w3c-ccg/Merkle-Disclosure-2021) | [https://github.com/w3c-ccg/Merkle-Disclosure-2021](https://github.com/w3c-ccg/Merkle-Disclosure-2021) | Rough Draft |   | ?
 | [Verifiable Driver's License Vocabulary](https://github.com/w3c-ccg/vdl-vocab) [& Test Suite](https://github.com/w3c-ccg/vdl-test-suite) | [https://github.com/w3c-ccg/vdl-vocab](https://github.com/w3c-ccg/vdl-vocab) [https://github.com/w3c-ccg/vdl-test-suite](https://github.com/w3c-ccg/vdl-test-suite) | Rough Draft | [Unofficial Draft - Vocab](https://w3c-ccg.github.io/vdl-vocab/) [Unofficial Report](https://w3c-ccg.github.io/vdl-test-suite/)   | ?
 | [Verifiable Credentials Refresh 2021](https://github.com/w3c-ccg/vc-refresh-2021) | [https://github.com/w3c-ccg/vc-refresh-2021](https://github.com/w3c-ccg/vc-refresh-2021) | Rough Draft |   | ?
+| [ECDSA Secpr1 Cryptosuite v2019](https://github.com/w3c-ccg/di-ecdsa-secpr1-2019) | [https://github.com/w3c-ccg/di-ecdsa-secpr1-2019](https://github.com/w3c-ccg/di-ecdsa-secpr1-2019) | Rough Draft | [Unofficial Draft](https://w3c-ccg.github.io/di-ecdsa-secpr1-2019/) | ?
 
 #### Community Notes
 

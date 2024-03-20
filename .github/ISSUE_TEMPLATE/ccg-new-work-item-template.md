@@ -3,7 +3,7 @@ name: CCG New Work Item Template
 about: Template for creating a new W3C-CCG work item
 title: "[PROPOSED WORK ITEM]"
 labels: proposed work items
-assignees: man4prez, kwlinson, mprorock
+assignees: man4prez, kwlinson, wip-abramson
 
 ---
 
